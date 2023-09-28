@@ -2,8 +2,9 @@
 
 para rodar apos clonar ou baixar o projeto use o comando: 
 
-- node ace migration:run
-- node ace serve --watch
+ - npm i
+ - node ace migration:run
+ - npm run dev
 
 api que trabalha com CREATE, READ, UPDATE e DELETE de momentos e comentarios
 
