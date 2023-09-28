@@ -2,7 +2,7 @@
 
 para rodar apos clonar ou baixar o projeto use o comando: 
 
- - npm i
+ - npm install
  - node ace migration:run
  - npm run dev
 
